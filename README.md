@@ -4,7 +4,7 @@ Make sure you have `git`, `python3` and `pip3` installed. If not, please do so b
 ## Prepare environment
 * Clone the project to your local machine and navigate to the project directory:
 ```shell
-git clone https://{repository_address}
+git clone git@github.com:IgorDodukh/swapiTestProject.git
 cd swapiTestProject
 ```
 * Install and setup virtualenv for the project:
