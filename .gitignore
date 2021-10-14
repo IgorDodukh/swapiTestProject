@@ -1,0 +1,5 @@
+*.pyc
+.idea/*
+/tmp
+.DS_Store
+.pytest_cache
