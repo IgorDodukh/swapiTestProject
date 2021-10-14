@@ -1,3 +1,7 @@
+## Description
+API tests are written for `/planets` endpoint on the resource:
+`https://swapi.dev/documentation#planets`
+
 ## Preconditions
 Make sure you have `git`, `python3` and `pip3` installed. If not, please do so by googling and following the instructions on the official resources.
 
